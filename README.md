@@ -4,6 +4,7 @@
 ### Project Overview
 
 This repository contains a signature biometric identification system that uses image processing techniques and deep learning to recognize and authenticate individuals based on their handwritten signatures. The system achieves a high accuracy of 98.60% on a dataset of 30 handwritten signatures from 420 users.
+
 Additionally, the system applies the XOR method for encryption and decryption of signature data, ensuring secure storage and transmission of digital signatures.
 
 ### Features
